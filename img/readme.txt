@@ -1,0 +1,1 @@
+We need this file here because GitHub doesn't like empty folders.
